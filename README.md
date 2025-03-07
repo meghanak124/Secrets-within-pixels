@@ -18,11 +18,11 @@ Error Handling & Validation – Prevents incorrect input selection
 Lightweight & Efficient – Minimal processing overhead for embedding and extracting messages
 
 WORKING :
+
 Encoding Process:
 Select an image
 Enter the secret message
 Save the stego-image with the hidden message
-
 Decoding Process:
 Select a stego-image
 Extract the hidden message
