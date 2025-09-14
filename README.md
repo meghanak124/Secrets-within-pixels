@@ -4,17 +4,26 @@ With the rise of cyber threats and data breaches, secure communication has becom
 
 TECHNOLOGIES USED :
 Programming Language: Python
+
 Libraries:
+
 Pillow – For image processing
+
 NumPy – For efficient pixel manipulation
+
 Tkinter – For GUI implementation
+
 Development Environment: VS Code
 
 FEATURES:
 User-Friendly Interface – Built using Tkinter for easy encoding and decoding
+
 LSB Steganography – Uses the Least Significant Bit (LSB) method for hiding messages
+
 Supports PNG & JPEG – Works with different image formats
+
 Error Handling & Validation – Prevents incorrect input selection
+
 Lightweight & Efficient – Minimal processing overhead for embedding and extracting messages
 
 WORKING :
